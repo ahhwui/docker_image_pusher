@@ -1,4 +1,4 @@
-chisbread/qbittorrent:latest
+iyuucn/iyuuplus:lates
 
 
 
