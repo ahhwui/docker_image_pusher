@@ -4,3 +4,4 @@ kasmweb/nginx:1.25.3
 --platform linux/arm64 cooderl/wewe-rss-sqlite:latest
 iyuuplus
 chisbread_qbittorrent
+chisbread_transmission
