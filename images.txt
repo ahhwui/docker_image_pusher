@@ -1,4 +1,4 @@
-chisbread/transmission:latest
+chisbread/qbittorrent:latest
 
 
 
