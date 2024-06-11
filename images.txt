@@ -1,4 +1,4 @@
-nastools/nas-tools:latest
+jxxghp/moviepilot:latest
 
 
 
